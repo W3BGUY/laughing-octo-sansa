@@ -3,7 +3,8 @@
   Charles Bastian
   charles@charlesbastian.com
   2014.11.15
-  Created for CodeEval.com challenge 02 - PRIME PALINDROME
+  Created for CodeEval.com Easy Challenge 3 - Prime Palindrome
+  https://www.codeeval.com/open_challenges/3/
 */
 function primes($n){
   if($n==1 || $n%2==0){return false;}
