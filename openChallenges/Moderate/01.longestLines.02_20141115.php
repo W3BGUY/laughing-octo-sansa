@@ -3,7 +3,8 @@
   Charles Bastian
   charles@charlesbastian.com
   2014.11.15
-  Created for CodeEval.com Moderate challenge 01 - Longest Lines
+  Created for CodeEval.com Moderate challenge 02 - Longest Lines
+  https://www.codeeval.com/open_challenges/2/
 */
 $fileContents=fopen($argv[1],"r");
 $returnVal='';
